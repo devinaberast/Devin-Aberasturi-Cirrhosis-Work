@@ -1,5 +1,5 @@
 # Devin-Aberasturi-Cirrhosis-Work
-All the work I completed for Dr. Tapper's research on Hepatic Encephalopathy (HE) at University of Michigan during 2018-2019 school year.
+All the work I completed for Dr. Tapper's research on Hepatic Encephalopathy (HE) at University of Michigan during 2018-2019 school year. Made for future workers who want to look at the work I have completed.
 
 Includes the following:
 
